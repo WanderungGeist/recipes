@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Project: Recipe book</title>
+    <meta charset="utf-8">
+    <style>
+        h1 {
+            color: cornflowerblue;
+        }
+
+        h2 {
+            color: brown;
+        }
+
+        #contents {
+            color: blue;
+        }
+
+        thead {
+            color: blue;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Bryan's Recipe Book</h1>
+
+    <h2 id="contents">Contents:</h2>
+
+    <ol>
+        <li><a href="#steak">Garlic Butter Steak</a></li>
+        <li><a href="#chicken">Fried Chicken</a></li>
+        <li><a href="#fish">Beer Battered Perch</a></li>
+    </ol>
+
+    <h2 id="steak">Garlic Butter Steak</h2>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Steak_Frites_with_Bordelaise%2C_July_2020.jpg"
+        alt="Garlic butter steak and fries" width="300px">
+
+    <ul>
+        <li>Time: 1hr 8min</li>
+        <li>Serves: 2</li>
+    </ul>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Ingredients</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2in Thick Ribeye</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Salt & Pepper</td>
+                <td>To taste</td>
+            </tr>
+            <tr>
+                <td>Canola Oil</td>
+                <td>3 Tbsp</td>
+            </tr>
+            <tr>
+                <td>Butter</td>
+                <td>3 Tbsp</td>
+            </tr>
+            <tr>
+                <td>Garlic Cloves</td>
+                <td>3 Peeled & Smashed</td>
+            </tr>
+            <tr>
+                <td>Thyme</td>
+                <td>3 Sprigs</td>
+            </tr>
+            <tr>
+                <td>Rosemary</td>
+                <td>2 Sprigs</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+    <p>
+        <strong>Step 1:</strong> Preheat oven to 200°F (95°C).
+    </p>
+    <p>
+        <strong>Step 2:</strong> Generously season all sides of the steak with salt and pepper.
+    </p>
+    <p>
+        <strong>Step 3:</strong> Transfer to a wire rack on top of a baking sheet, then bake for about 45 minutes to an
+        hour until the internal temperature reads about 125°F (51° C) for medium-rare. Adjust the bake time based on if
+        you like your steak more rare or more well-done (you monster).
+    </p>
+    <p>
+        <strong>Step 4:</strong> Heat the canola oil in a pan over high heat until smoking. Do not use olive oil, as its
+        smoke point is significantly lower than that of canola oil and will smoke before reaching the desired cooking
+        temperature.
+    </p>
+    <p>
+        <strong>Step 5:</strong> Sear the steak for 30 seconds on the first side, then flip.
+    </p>
+    <p>
+        <strong>Step 6:</strong> Add the butter, garlic, rosemary, and thyme and swirl around the pan.
+    </p>
+    <p>
+        <strong>Step 7:</strong> Transfer the garlic and herbs on top of the steak and baste the steak with the butter
+        using a large spoon.
+    </p>
+    <p>
+        <strong>Step 8:</strong> Baste for about 30 seconds, then flip and baste the other side for about 15 seconds.
+    </p>
+    <p>
+        <strong>Step 9:</strong> Turn the steak on its side and cook to render off any excess fat.
+    </p>
+    <p>
+        <strong>Step 10:</strong> Rest the steak on a cutting board or wire rack for about 10 minutes. Slicing the steak
+        before the resting period has finished will result in a lot of the juices leaking out, which may not be
+        desirable.Slice the steak into ½ -inch (1 cm) strips, then fan out the slices and serve.
+    </p>
+    <p>
+        <strong>Step 11:</strong> Slice the steak into ½ -inch (1 cm) strips, then fan out the slices and serve.
+    </p>
+    <p>
+        <strong>Step 12:</strong> Enjoy!
+    </p>
+
+    <p><em>Source: <a href="https://tasty.co/recipe/garlic-butter-steak">From Tasty.co</a></em></p>
+
+    <h2 id="chicken">Fried Chicken</h2>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Friedchicken.jpg/1280px-Friedchicken.jpg"
+        alt="Fried chicken" width="300px">
+
+    <ul>
+        <li>Time: 50 min</li>
+        <li>Serves: 8</li>
+    </ul>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Ingredients</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Whole, free-range chickens</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>Vegetable oil of choice, for frying the chicken</td>
+                <td>To taste</td>
+            </tr>
+            <tr>
+                <td>All-purpose flour</td>
+                <td>6 cups</td>
+            </tr>
+            <tr>
+                <td>Salt</td>
+                <td>5 Tbsp</td>
+            </tr>
+            <tr>
+                <td>Ground black pepper</td>
+                <td>4 Tbsp</td>
+            </tr>
+            <tr>
+                <td>Garlic powder</td>
+                <td>2 Tbsp</td>
+            </tr>
+            <tr>
+                <td>Onion powder</td>
+                <td>1 Tbsp</td>
+            </tr>
+            <tr>
+                <td>Cayenne powder</td>
+                <td>2 tsp</td>
+            </tr>
+            <tr>
+                <td>Buttermilk</td>
+                <td>2 cups</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>
+        <strong>Step 1:</strong> Cut the whole chickens into 4 breasts, 4 thighs, 4 legs and 4 wings and set aside.
+    </p>
+    <p>
+        <strong>Step 2:</strong> Preheat your oil, in either a heavy pan on the stove or a deep-fryer, to 325 degrees F.
+    </p>
+    <p>
+        <strong>Step 3:</strong> In a large bowl, combine the flour, salt, black pepper, garlic powder, onion powder and
+        cayenne pepper until thoroughly mixed. Set aside.
+    </p>
+    <p>
+        <strong>Step 4:</strong> Pour the buttermilk into another bowl large enough for the chicken to be immersed in
+        the buttermilk.
+    </p>
+    <p>
+        <strong>Step 5:</strong> Prepare your dredging station. Place your chicken in a bowl. Next to that, your bowl of
+        buttermilk, and next to that, your dry mixture.
+    </p>
+    <p>
+        <strong>Step 6:</strong> Take your breasts, lightly dust them with your flour mixture, then dip them in the
+        buttermilk until they are coated, and then place them in the flour mixture.
+    </p>
+    <p>
+        <strong>Step 7:</strong> Take the breasts that are in the flour mixture and aggressively push the flour mixture
+        into the wet chicken. Make sure that the chicken in very thoroughly coated, or you will not achieve the crust
+        and crunch you are looking for. Gently place the breasts in your hot oil.
+    </p>
+    <p>
+        <strong>Step 8:</strong> Next, repeat the dredging steps with your other pieces of chicken in this order: thigh,
+        leg then wing.
+    </p>
+    <p>
+        <strong>Step 9:</strong> When you place the last wing into the fryer, you should have 16 pieces of chicken in
+        the oil. Set a timer for 15 minutes.
+    </p>
+    <p>
+        <strong>Step 10:</strong> After 15 minutes, take a probe thermometer and check the temperature of a breast. If
+        it reads 180 degrees F, all of your chicken is done. (Keep in mind that it will continue to cook after it has
+        been removed from the fryer.)
+    </p>
+    <p>
+        <strong>Step 11:</strong> Remove the chicken from the oil and let it drain for 5 minutes. Let cool for an
+        additional 10 minutes before serving.
+    </p>
+
+    <p><em>Source: <a href="https://www.foodnetwork.com/recipes/fried-chicken-recipe10-3381583">From
+                FoodNetwork.com</a></em></p>
+
+    <h2 id="fish">Beer Battered Fish</h2>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Fish_and_chips_blackpool.jpg/1200px-Fish_and_chips_blackpool.jpg"
+        alt="Beer battered fish on a plate" width="300px">
+
+    <ul>
+        <li>Time: 20 min</li>
+        <li>Serves: 8</li>
+    </ul>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Ingredients</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Vegetable oil for frying</td>
+                <td>2 quarts</td>
+            </tr>
+            <tr>
+                <td>4oz fish filets</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>Salt & pepper</td>
+                <td>To taste</td>
+            </tr>
+            <tr>
+                <td>All-purpose flour</td>
+                <td>1 cup</td>
+            </tr>
+            <tr>
+                <td>Garlic powder</td>
+                <td>2 Tbsp</td>
+            </tr>
+            <tr>
+                <td>Paprika</td>
+                <td>2 Tbsp</td>
+            </tr>
+            <tr>
+                <td>Salt</td>
+                <td>2 tsp</td>
+            </tr>
+            <tr>
+                <td>Ground black pepper</td>
+                <td>2 tsp</td>
+            </tr>
+            <tr>
+                <td>egg, beaten</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>Beer</td>
+                <td>12oz</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>
+        <strong>Step 1:</strong> Heat oil in a deep fryer to 365 degrees F (185 degrees C).
+    </p>
+    <p>
+        <strong>Step 2:</strong> Rinse fish, pat dry, and season with salt and pepper.
+    </p>
+    <p>
+        <strong>Step 3:</strong> Combine flour, garlic powder, paprika, 2 teaspoons salt, and 2 teaspoons pepper. Stir
+        egg into dry ingredients.
+    </p>
+    <p>
+        <strong>Step 4:</strong> Gradually mix in one beer until a thin batter is formed.
+    </p>
+    <p>
+        <strong>Step 5:</strong> You should be able to see the fish through the batter after it has been dipped.
+    </p>
+    <p>
+        <strong>Step 6:</strong> Dip fish fillets into the batter, then drop one at a time into hot oil.
+    </p>
+    <p>
+        <strong>Step 7:</strong> Fry fish, turning once, until both sides are golden brown.
+    </p>
+    <p>
+        <strong>Step 8:</strong> Drain on paper towels, and serve warm.
+    </p>
+
+    <p><em>Source: <a href="https://www.food.com/recipe/beer-battered-fish-130102">From Food.com</a></em></p>
+
+</body>
+
+</html>
